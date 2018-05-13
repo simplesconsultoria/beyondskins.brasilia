@@ -6,7 +6,7 @@ version = '0.1'
 setup(name='beyondskins.brasilia',
       version=version,
       description="Beyondskins Brasilia Theme for Plone/Diazo powered sites",
-      long_description=open("README.txt").read() + "\n" +
+      long_description=open("README.rst").read() + "\n" +
                        open(os.path.join("docs", "HISTORY.txt")).read(),
       # Get more strings from
       # https://pypi.org/pypi?:action=list_classifiers
@@ -32,6 +32,8 @@ setup(name='beyondskins.brasilia',
       keywords='web zope plone diazo theme beyondskins brasilia cms',
       author='Thiago Tamosauskas',
       author_email='thiago@simplesconsultoria.com.br',
+      maintainer='Leonardo Caballero',
+      maintainer_email='leonardocaballero@gmail.com',
       url='https://github.com/simplesconsultoria/beyondskins.brasilia',
       license='GPL',
       packages=find_packages(exclude=['ez_setup']),
