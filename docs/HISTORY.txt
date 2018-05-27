@@ -4,6 +4,8 @@ Changelog
 0.1dev (unreleased)
 -------------------
 
+- Updated beyondskins.brasilia Zip File [macagua]
+
 - Added HTML5 validation for Home HTML file [macagua]
 
 - Added HTML5 validation for HTML file [macagua]
