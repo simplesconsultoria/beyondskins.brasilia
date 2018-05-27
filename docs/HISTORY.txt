@@ -4,6 +4,8 @@ Changelog
 0.1dev (unreleased)
 -------------------
 
+- Added HTML5 validation for Home HTML file [macagua]
+
 - Added HTML5 validation for HTML file [macagua]
 
 - Changed the description for setuptools metadata classifier [macagua]
