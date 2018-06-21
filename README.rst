@@ -94,5 +94,13 @@ Credits
 
 - Thiago Tamosauskas (thiago at simplesconsultoria dot com dot br).
 
+
+Amazing contributions
+---------------------
+
+- Leonardo J. Caballero G. aka macagua (leonardocaballero at gmail dot com).
+
+You can find an updated list of package contributors on https://github.com/agnogueira/beyondskins.brasilia/contributors
+
 .. _`Simples Consultoria`: http://www.simplesconsultoria.com.br/
 .. _`plone.app.theming`: https://pypi.org/project/plone.app.theming/
