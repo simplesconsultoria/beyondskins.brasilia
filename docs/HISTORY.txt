@@ -1,0 +1,27 @@
+Changelog
+=========
+
+0.1dev (unreleased)
+-------------------
+
+- Updated the Diazo manifest file [macagua]
+
+- Updated beyondskins.brasilia Zip File [macagua]
+
+- Added HTML5 validation for Home HTML file [macagua]
+
+- Added HTML5 validation for HTML file [macagua]
+
+- Changed the description for setuptools metadata classifier [macagua]
+
+- Added the license for setuptools metadata classifier [macagua]
+
+- Added maintainer name and email setuptools metadata [macagua]
+
+- Added Plone theme package structure [macagua]
+
+- importacao inicial [Tamosauskas]
+
+- Initial commit [Tamosauskas]
+
+- Initial release
